@@ -1,7 +1,7 @@
 
 ### Hi, I'm Ioana
 
-Technical Product Manager in Belgium. Working on LLM agentic inference system benchmarking at imec, doing a second evening MSc at VUB in AI, slowly going deeper into ML and AI safety on the side.
+Technical Product Manager in Belgium. Working on LLM agentic inference system benchmarking at imec and going deeper into ML and AI safety on the side.
 
 ---
 
