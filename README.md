@@ -17,6 +17,3 @@ More ML engineering, deeper into safety and eval literature, building things I c
 ---
 
 **About this GitHub** — a mix of work, learning, and old things. Not all polished. I'm a PM still polishing up the technical side, and I'd rather show the messy progress than hide it.
-
-**Tip** Pinned repos are the best starting point. Happy to walk through any of it.
-
